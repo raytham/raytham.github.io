@@ -85,3 +85,9 @@ Password:
 Mac OS will attempt to mount the device afterwards but a dialog will pop
 if you copied an image that uses a filesystem that Mac OS can't read. Simply
 opt to eject the device and you're done!
+
+## References
+* <https://blog.tinned-software.net/create-bootable-usb-stick-from-iso-in-mac-os-x/>
+* <http://endlessgeek.com/2014/02/mac-osx-how-to-burn-an-iso-image-to-a-usb-key/>
+* <https://unix.stackexchange.com/questions/114984/how-to-create-a-bootable-linux-installation-usb-from-an-iso-in-os-x/114987#114987>
+* <https://www.macobserver.com/tips/deep-dive/macos-sierra-delete-apfs-partition-right-way/>
